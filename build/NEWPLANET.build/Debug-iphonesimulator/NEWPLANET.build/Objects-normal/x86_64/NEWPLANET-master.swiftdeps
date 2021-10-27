@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "5b03f7e4d392aca8dffd8c8d9e5ec367"
+build_time: [1635344962, 21877000]
+inputs:
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/PictorialViewController.swift": [1635334583, 365333866]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/ViewController.swift": [1635333296, 59961799]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/ListTableViewCell.swift": [1635320228, 943492137]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/AppDelegate.swift": [1635311652, 425222429]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/SceneDelegate.swift": [1635311652, 404398661]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/Question.swift": [1564061644, 0]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/CooseCategoryViewController.swift": [1635333591, 987787346]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/NewCollectionViewCell.swift": [1635313530, 275694700]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/CategoryTableViewCell.swift": [1635316807, 247866543]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/QuizViewController.swift": [1635333905, 740021739]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/DetailViewController.swift": [1635344961, 396427511]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/Quiz.swift": [1634381789, 0]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/AboutUsViewController.swift": [1635333905, 721065351]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/pictorialTableViewCell.swift": [1635329820, 309743295]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/File.swift": [1635329820, 391576451]
+  "/Users/srikanthvemana/Desktop/NEWPLANET/NEWPLANET/ListViewController.swift": [1635333704, 31881763]
